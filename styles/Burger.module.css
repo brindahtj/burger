@@ -1,0 +1,29 @@
+
+.jcc{
+    display:flex ;
+    width: 500px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.round{
+    border-radius: 50%;
+    background-color: rgb(187, 184, 184);    
+    padding: 10px 8px;
+
+}
+
+.container {
+    background: linear-gradient(hsl(216, 12%, 54%), hsl(213, 19%, 18%));
+    height: 300px;
+}
+
+.btn {
+    padding: 10px 15px;
+    border-radius: 100%;
+    border: none;
+    cursor: pointer;
+}
+
+
+
